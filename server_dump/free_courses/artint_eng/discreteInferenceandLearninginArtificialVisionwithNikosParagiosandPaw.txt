@@ -1,0 +1,1 @@
+{"discreteInferenceandLearninginArtificialVisionwithNikosParagiosandPaw":"[{\"number\":6,\"topic\":\"Discrete Inference and Learning in Artificial Vision with Nikos Paragios and Paw\",\"lessonId\":\"discreteInferenceandLearninginArtificialVisionwithNikosParagiosandPaw\",\"videoURL\":\"v=QPZeBdr3fHM\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"socialNetworkAnalysiswithLadaAdamic":"[{\"number\":1,\"topic\":\"Social Network Analysis with Lada Adamic\",\"lessonId\":\"socialNetworkAnalysiswithLadaAdamic\",\"videoURL\":\"v=AJGGiAb47S4\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"douglasCrockfordAnInconvenientAPITheTheoryoftheDOM":"[{\"number\":2,\"topic\":\"Douglas Crockford: An Inconvenient API - The Theory of the DOM\",\"lessonId\":\"douglasCrockfordAnInconvenientAPITheTheoryoftheDOM\",\"videoURL\":\"v=Y2Y0U-2qJMs\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

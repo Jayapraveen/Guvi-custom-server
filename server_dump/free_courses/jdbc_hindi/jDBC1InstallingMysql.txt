@@ -1,0 +1,1 @@
+{"jDBC1InstallingMysql":"[{\"number\":1,\"topic\":\"JDBC 1 - Installing Mysql\",\"lessonId\":\"jDBC1InstallingMysql\",\"videoURL\":\"v=ZiV1y4Mqco4\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

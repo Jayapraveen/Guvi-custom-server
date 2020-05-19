@@ -1,0 +1,1 @@
+{"cinTelugu20CMemoryStorageandPointersIntroduction":"[{\"number\":20,\"topic\":\"C in Telugu - 20 - C Memory, Storage and Pointers Introduction\",\"lessonId\":\"cinTelugu20CMemoryStorageandPointersIntroduction\",\"videoURL\":\"v=0LUrTE0kAOU\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

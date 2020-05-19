@@ -1,0 +1,1 @@
+{"howtocreateadynamicmapchartwithdropdownworkswithANYExcelversion":"[{\"number\":17,\"topic\":\"How to create a dynamic map chart with drop-down (works with ANY Excel version)\",\"lessonId\":\"howtocreateadynamicmapchartwithdropdownworkswithANYExcelversion\",\"videoURL\":\"v=EoKoN1q2cTk\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

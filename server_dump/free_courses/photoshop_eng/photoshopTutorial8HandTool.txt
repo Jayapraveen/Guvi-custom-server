@@ -1,0 +1,1 @@
+{"photoshopTutorial8HandTool":"[{\"number\":8,\"topic\":\"Photoshop Tutorial - 8 - Hand Tool\",\"lessonId\":\"photoshopTutorial8HandTool\",\"videoURL\":\"v=5lFFjAcyDPs\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

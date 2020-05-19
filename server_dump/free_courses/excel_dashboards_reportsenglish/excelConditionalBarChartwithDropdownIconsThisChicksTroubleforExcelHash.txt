@@ -1,0 +1,1 @@
+{"excelConditionalBarChartwithDropdownIconsThisChicksTroubleforExcelHash":"[{\"number\":16,\"topic\":\"Excel Conditional Bar Chart with Drop-down & Icons  (This Chick's Trouble for Excel Hash)\",\"lessonId\":\"excelConditionalBarChartwithDropdownIconsThisChicksTroubleforExcelHash\",\"videoURL\":\"v=N0MesGk0VpI\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"deviceAPIsLocationAccelerometerCameraBattery":"[{\"number\":13,\"topic\":\"Device APIs; Location, Accelerometer & Camera; Battery\",\"lessonId\":\"deviceAPIsLocationAccelerometerCameraBattery\",\"videoURL\":\"v=Cf_shyIyN3s\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

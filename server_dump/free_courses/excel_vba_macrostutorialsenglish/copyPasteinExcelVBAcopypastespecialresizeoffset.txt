@@ -1,0 +1,1 @@
+{"copyPasteinExcelVBAcopypastespecialresizeoffset":"[{\"number\":5,\"topic\":\"Copy & Paste in Excel VBA (copy, pastespecial, resize & offset)\",\"lessonId\":\"copyPasteinExcelVBAcopypastespecialresizeoffset\",\"videoURL\":\"v=p4ViTxIl0E0\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

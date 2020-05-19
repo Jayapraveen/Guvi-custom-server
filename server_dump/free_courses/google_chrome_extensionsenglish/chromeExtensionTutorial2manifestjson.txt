@@ -1,0 +1,1 @@
+{"chromeExtensionTutorial2manifestjson":"[{\"number\":2,\"topic\":\"Chrome Extension Tutorial 2: manifest.json\",\"lessonId\":\"chromeExtensionTutorial2manifestjson\",\"videoURL\":\"v=CnkpZR0mRoU\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

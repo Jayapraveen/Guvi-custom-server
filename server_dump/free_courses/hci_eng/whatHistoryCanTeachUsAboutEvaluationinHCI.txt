@@ -1,0 +1,1 @@
+{"whatHistoryCanTeachUsAboutEvaluationinHCI":"[{\"number\":1,\"topic\":\"What History Can Teach Us About Evaluation in HCI\",\"lessonId\":\"whatHistoryCanTeachUsAboutEvaluationinHCI\",\"videoURL\":\"v=pgoPtM5xELY\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"gitCreatingandApplyingPatches":"[{\"number\":16,\"topic\":\"Git Creating and Applying Patches\",\"lessonId\":\"gitCreatingandApplyingPatches\",\"videoURL\":\"v=X1gF-Dhrqqs\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

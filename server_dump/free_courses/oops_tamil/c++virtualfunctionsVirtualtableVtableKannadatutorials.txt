@@ -1,0 +1,1 @@
+{"c++virtualfunctionsVirtualtableVtableKannadatutorials":"[{\"number\":4,\"topic\":\"C++ virtual functionsVirtual table Vtable) Kannada tutorials\",\"lessonId\":\"c++virtualfunctionsVirtualtableVtableKannadatutorials\",\"videoURL\":\"v=kU72-ON44PQ\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

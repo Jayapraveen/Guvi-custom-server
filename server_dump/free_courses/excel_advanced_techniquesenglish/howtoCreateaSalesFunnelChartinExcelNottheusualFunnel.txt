@@ -1,0 +1,1 @@
+{"howtoCreateaSalesFunnelChartinExcelNottheusualFunnel":"[{\"number\":35,\"topic\":\"How to Create a Sales Funnel Chart in Excel (Not the 'usual' Funnel)\",\"lessonId\":\"howtoCreateaSalesFunnelChartinExcelNottheusualFunnel\",\"videoURL\":\"v=BVenI8RwXW0\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

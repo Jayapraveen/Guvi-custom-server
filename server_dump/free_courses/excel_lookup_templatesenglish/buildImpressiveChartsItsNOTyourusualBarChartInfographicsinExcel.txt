@@ -1,0 +1,1 @@
+{"buildImpressiveChartsItsNOTyourusualBarChartInfographicsinExcel":"[{\"number\":18,\"topic\":\"Build Impressive Charts: It's NOT your usual Bar Chart (Infographics in Excel)\",\"lessonId\":\"buildImpressiveChartsItsNOTyourusualBarChartInfographicsinExcel\",\"videoURL\":\"v=8g9DK5noi1s\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

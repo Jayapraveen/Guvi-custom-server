@@ -1,0 +1,1 @@
+{"dynamicandStaticArrays":"[{\"number\":4,\"topic\":\"Dynamic and Static Arrays\",\"lessonId\":\"dynamicandStaticArrays\",\"videoURL\":\"v=PEnFFiQe1pM\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

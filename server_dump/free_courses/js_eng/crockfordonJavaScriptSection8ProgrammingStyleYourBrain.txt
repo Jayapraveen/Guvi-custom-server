@@ -1,0 +1,1 @@
+{"crockfordonJavaScriptSection8ProgrammingStyleYourBrain":"[{\"number\":14,\"topic\":\"Crockford on JavaScript - Section 8: Programming Style & Your Brain\",\"lessonId\":\"crockfordonJavaScriptSection8ProgrammingStyleYourBrain\",\"videoURL\":\"v=taaEzHI9xyY\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"excelPictureLookup5easystepsfordynamicimages":"[{\"number\":14,\"topic\":\"Excel Picture Lookup: 5 easy steps for dynamic images\",\"lessonId\":\"excelPictureLookup5easystepsfordynamicimages\",\"videoURL\":\"v=wlW2UKml9CY\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

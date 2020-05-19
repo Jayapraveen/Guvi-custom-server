@@ -1,0 +1,1 @@
+{"ctutorialinteluguforbeginners11Forloopbasics":"[{\"number\":11,\"topic\":\"C tutorial in telugu for beginners - 11 - For loop basics\",\"lessonId\":\"ctutorialinteluguforbeginners11Forloopbasics\",\"videoURL\":\"v=qzTppdy2pKg\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

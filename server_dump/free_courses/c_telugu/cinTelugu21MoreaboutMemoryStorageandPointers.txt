@@ -1,0 +1,1 @@
+{"cinTelugu21MoreaboutMemoryStorageandPointers":"[{\"number\":21,\"topic\":\"C in Telugu - 21 - More about Memory, Storage and Pointers\",\"lessonId\":\"cinTelugu21MoreaboutMemoryStorageandPointers\",\"videoURL\":\"v=2zg00gS3-Ts\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

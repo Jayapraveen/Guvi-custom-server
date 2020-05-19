@@ -1,0 +1,1 @@
+{"fetchwithBasicAuthentication":"[{\"number\":21,\"topic\":\"Fetch with Basic Authentication\",\"lessonId\":\"fetchwithBasicAuthentication\",\"videoURL\":\"v=MvNT0Jis-3k\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

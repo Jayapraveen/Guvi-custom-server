@@ -1,0 +1,1 @@
+{"cTitBits1WhyWeNeedDotSlashbeforeanyuserbinaryinunix":"[{\"number\":1,\"topic\":\"C Tit-Bits 1 - Why We Need Dot Slash - before any user binary in unix\",\"lessonId\":\"cTitBits1WhyWeNeedDotSlashbeforeanyuserbinaryinunix\",\"videoURL\":\"v=XWbiVuVsIEI\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

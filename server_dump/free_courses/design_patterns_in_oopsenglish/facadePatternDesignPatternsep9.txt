@@ -1,0 +1,1 @@
+{"facadePatternDesignPatternsep9":"[{\"number\":9,\"topic\":\"Facade Pattern \\u2013 Design Patterns (ep 9)\",\"lessonId\":\"facadePatternDesignPatternsep9\",\"videoURL\":\"v=K4FkHVO5iac\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

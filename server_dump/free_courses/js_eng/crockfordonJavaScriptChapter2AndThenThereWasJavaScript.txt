@@ -1,0 +1,1 @@
+{"crockfordonJavaScriptChapter2AndThenThereWasJavaScript":"[{\"number\":8,\"topic\":\"Crockford on JavaScript - Chapter 2: And Then There Was JavaScript\",\"lessonId\":\"crockfordonJavaScriptChapter2AndThenThereWasJavaScript\",\"videoURL\":\"v=RO1Wnu-xKoY\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

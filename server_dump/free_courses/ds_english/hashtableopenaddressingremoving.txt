@@ -1,0 +1,1 @@
+{"hashtableopenaddressingremoving":"[{\"number\":36,\"topic\":\"Hash table open addressing removing\",\"lessonId\":\"hashtableopenaddressingremoving\",\"videoURL\":\"v=7eLDTtbzX4M\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

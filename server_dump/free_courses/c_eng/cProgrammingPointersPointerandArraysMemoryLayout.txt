@@ -1,0 +1,1 @@
+{"cProgrammingPointersPointerandArraysMemoryLayout":"[{\"number\":21,\"topic\":\"C Programming: Pointers (Pointer and Arrays, Memory Layout)\",\"lessonId\":\"cProgrammingPointersPointerandArraysMemoryLayout\",\"videoURL\":\"v=BcW5vB24RZo\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

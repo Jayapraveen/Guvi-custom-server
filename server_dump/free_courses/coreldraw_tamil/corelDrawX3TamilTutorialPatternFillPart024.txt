@@ -1,0 +1,1 @@
+{"corelDrawX3TamilTutorialPatternFillPart024":"[{\"number\":23,\"topic\":\"CorelDraw X3 Tamil Tutorial Pattern Fill Part 024\",\"lessonId\":\"corelDrawX3TamilTutorialPatternFillPart024\",\"videoURL\":\"v=W48gldDg-F0\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

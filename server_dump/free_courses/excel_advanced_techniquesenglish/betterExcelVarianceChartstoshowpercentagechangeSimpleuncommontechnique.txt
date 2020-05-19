@@ -1,0 +1,1 @@
+{"betterExcelVarianceChartstoshowpercentagechangeSimpleuncommontechnique":"[{\"number\":12,\"topic\":\"Better Excel Variance Charts to show percentage change (Simple & uncommon technique)\",\"lessonId\":\"betterExcelVarianceChartstoshowpercentagechangeSimpleuncommontechnique\",\"videoURL\":\"v=73s3qej4vi0\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"excelSUMbasedonPartialTextMatchSUMIFSwithwildcards":"[{\"number\":23,\"topic\":\"Excel SUM based on Partial Text Match (SUMIFS with wildcards)\",\"lessonId\":\"excelSUMbasedonPartialTextMatchSUMIFSwithwildcards\",\"videoURL\":\"v=2h90wU9jicI\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"typeScriptTutorial15constructormethod":"[{\"number\":15,\"topic\":\"TypeScript Tutorial 15: constructor method\",\"lessonId\":\"typeScriptTutorial15constructormethod\",\"videoURL\":\"v=7TWkiAJ_Z0g\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

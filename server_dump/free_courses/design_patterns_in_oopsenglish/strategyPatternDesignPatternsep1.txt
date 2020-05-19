@@ -1,0 +1,1 @@
+{"strategyPatternDesignPatternsep1":"[{\"number\":1,\"topic\":\"Strategy Pattern \\u2013 Design Patterns (ep 1)\",\"lessonId\":\"strategyPatternDesignPatternsep1\",\"videoURL\":\"v=v9ejT8FO-7I\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"singletonPatternDesignPatternsep6":"[{\"number\":6,\"topic\":\"Singleton Pattern \\u2013 Design Patterns (ep 6)\",\"lessonId\":\"singletonPatternDesignPatternsep6\",\"videoURL\":\"v=hUE_j6q0LTQ\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

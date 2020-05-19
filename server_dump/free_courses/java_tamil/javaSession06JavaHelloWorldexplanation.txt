@@ -1,0 +1,1 @@
+{"javaSession06JavaHelloWorldexplanation":"[{\"number\":6,\"topic\":\"Java - Session 06 - Java Hello World explanation\",\"lessonId\":\"javaSession06JavaHelloWorldexplanation\",\"videoURL\":\"v=JpncZndZtSg\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

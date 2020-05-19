@@ -1,0 +1,1 @@
+{"vIMReplaceModeRepeatCommandsUsingperiod":"[{\"number\":2,\"topic\":\"VIM - Replace Mode - Repeat Commands Using . (period)\",\"lessonId\":\"vIMReplaceModeRepeatCommandsUsingperiod\",\"videoURL\":\"v=xrmAmeGnIIg\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

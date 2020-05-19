@@ -1,0 +1,1 @@
+{"creativeinfographicsinExcelMaleFemaleicons":"[{\"number\":19,\"topic\":\"Creative infographics in Excel (Male, Female icons)\",\"lessonId\":\"creativeinfographicsinExcelMaleFemaleicons\",\"videoURL\":\"v=RVvzJtxEOgE\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

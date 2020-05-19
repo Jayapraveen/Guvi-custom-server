@@ -1,0 +1,1 @@
+{"abstractFactoryPatternDesignPatternsep5":"[{\"number\":5,\"topic\":\"Abstract Factory Pattern \\u2013 Design Patterns (ep 5)\",\"lessonId\":\"abstractFactoryPatternDesignPatternsep5\",\"videoURL\":\"v=v-GiuMmsXj4\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

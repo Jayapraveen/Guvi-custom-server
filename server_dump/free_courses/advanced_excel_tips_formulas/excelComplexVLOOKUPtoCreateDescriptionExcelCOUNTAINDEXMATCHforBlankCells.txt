@@ -1,0 +1,1 @@
+{"excelComplexVLOOKUPtoCreateDescriptionExcelCOUNTAINDEXMATCHforBlankCells":"[{\"number\":18,\"topic\":\"Excel Complex VLOOKUP to Create Description: Excel COUNTA, INDEX & MATCH for Blank Cells\",\"lessonId\":\"excelComplexVLOOKUPtoCreateDescriptionExcelCOUNTAINDEXMATCHforBlankCells\",\"videoURL\":\"v=YBehCWjcizg\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

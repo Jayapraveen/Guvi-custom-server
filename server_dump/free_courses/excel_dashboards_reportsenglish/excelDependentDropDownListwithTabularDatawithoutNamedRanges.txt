@@ -1,0 +1,1 @@
+{"excelDependentDropDownListwithTabularDatawithoutNamedRanges":"[{\"number\":10,\"topic\":\"Excel Dependent Drop Down List with Tabular Data without Named Ranges\",\"lessonId\":\"excelDependentDropDownListwithTabularDatawithoutNamedRanges\",\"videoURL\":\"v=avVLznHODVA\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

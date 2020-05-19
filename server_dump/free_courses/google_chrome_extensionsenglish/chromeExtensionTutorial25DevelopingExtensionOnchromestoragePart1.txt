@@ -1,0 +1,1 @@
+{"chromeExtensionTutorial25DevelopingExtensionOnchromestoragePart1":"[{\"number\":25,\"topic\":\"Chrome Extension Tutorial 25: Developing Extension On chrome.storage - Part 1\",\"lessonId\":\"chromeExtensionTutorial25DevelopingExtensionOnchromestoragePart1\",\"videoURL\":\"v=DHP2h_7mOfA\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

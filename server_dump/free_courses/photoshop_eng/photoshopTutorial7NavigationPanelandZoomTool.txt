@@ -1,0 +1,1 @@
+{"photoshopTutorial7NavigationPanelandZoomTool":"[{\"number\":7,\"topic\":\"Photoshop Tutorial - 7 - Navigation Panel and Zoom Tool\",\"lessonId\":\"photoshopTutorial7NavigationPanelandZoomTool\",\"videoURL\":\"v=n5kXtNwcHC8\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

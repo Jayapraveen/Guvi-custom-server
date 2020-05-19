@@ -1,0 +1,1 @@
+{"excelVBACopyDatafromoneSheettoAnotherAbsoluteVsRelativeMacroRecording":"[{\"number\":1,\"topic\":\"Excel VBA: Copy Data from one Sheet to Another (Absolute Vs. Relative Macro Recording)\",\"lessonId\":\"excelVBACopyDatafromoneSheettoAnotherAbsoluteVsRelativeMacroRecording\",\"videoURL\":\"v=8IreWUk1Al4\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

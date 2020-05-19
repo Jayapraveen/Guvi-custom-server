@@ -1,0 +1,1 @@
+{"excelVBAArraysPracticalExampleofa2dimensionalarraytocreateaNewWorkbook":"[{\"number\":10,\"topic\":\"Excel VBA Arrays: Practical Example of a 2 dimensional array to create a New Workbook\",\"lessonId\":\"excelVBAArraysPracticalExampleofa2dimensionalarraytocreateaNewWorkbook\",\"videoURL\":\"v=7uIZg9p-IZQ\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

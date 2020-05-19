@@ -1,0 +1,1 @@
+{"excelTablesBestPracticetoCreateTablesforFinancialReportinginExcel":"[{\"number\":8,\"topic\":\"Excel Tables: Best Practice to Create Tables for Financial Reporting in Excel\",\"lessonId\":\"excelTablesBestPracticetoCreateTablesforFinancialReportinginExcel\",\"videoURL\":\"v=_U2gbLmEwec\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

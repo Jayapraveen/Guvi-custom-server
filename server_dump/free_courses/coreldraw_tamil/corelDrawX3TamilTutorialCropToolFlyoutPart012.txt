@@ -1,0 +1,1 @@
+{"corelDrawX3TamilTutorialCropToolFlyoutPart012":"[{\"number\":12,\"topic\":\"CorelDraw X3 Tamil Tutorial Crop Tool Flyout Part 012\",\"lessonId\":\"corelDrawX3TamilTutorialCropToolFlyoutPart012\",\"videoURL\":\"v=NjS5HKosBh4\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"artificialIntelligencePlanningwithGerhardWicklerandAustinTate":"[{\"number\":8,\"topic\":\"Artificial Intelligence Planning with Gerhard Wickler and Austin Tate\",\"lessonId\":\"artificialIntelligencePlanningwithGerhardWicklerandAustinTate\",\"videoURL\":\"v=LSARePR3yVg\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

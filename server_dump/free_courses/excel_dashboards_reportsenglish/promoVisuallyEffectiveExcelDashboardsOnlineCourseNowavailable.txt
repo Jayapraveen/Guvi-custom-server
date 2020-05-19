@@ -1,0 +1,1 @@
+{"promoVisuallyEffectiveExcelDashboardsOnlineCourseNowavailable":"[{\"number\":3,\"topic\":\"(Promo) Visually Effective Excel Dashboards Online Course  - Now available!\",\"lessonId\":\"promoVisuallyEffectiveExcelDashboardsOnlineCourseNowavailable\",\"videoURL\":\"v=jD5SbrNKBcU\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

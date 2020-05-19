@@ -1,0 +1,1 @@
+{"fenwickTreeconstruction":"[{\"number\":40,\"topic\":\"Fenwick Tree construction\",\"lessonId\":\"fenwickTreeconstruction\",\"videoURL\":\"v=BHPez138yX8\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

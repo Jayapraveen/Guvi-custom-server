@@ -1,0 +1,1 @@
+{"discreteOptimizationwithPascalVanHentenryck":"[{\"number\":11,\"topic\":\"Discrete Optimization with Pascal Van Hentenryck\",\"lessonId\":\"discreteOptimizationwithPascalVanHentenryck\",\"videoURL\":\"v=kv_msJ-4Qsw\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

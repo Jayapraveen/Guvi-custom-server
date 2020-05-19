@@ -1,0 +1,1 @@
+{"betterExcelPresentationsIncreaseFontSizeofFormulaBar":"[{\"number\":18,\"topic\":\"Better Excel Presentations: Increase Font Size of Formula Bar\",\"lessonId\":\"betterExcelPresentationsIncreaseFontSizeofFormulaBar\",\"videoURL\":\"v=CVg9CkS6Lc8\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

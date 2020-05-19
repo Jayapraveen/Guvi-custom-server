@@ -1,0 +1,1 @@
+{"sELECTcommandwithWHEREcondition":"[{\"number\":10,\"topic\":\"SELECT command with WHERE condition\",\"lessonId\":\"sELECTcommandwithWHEREcondition\",\"videoURL\":\"v=xiUZmQ16vu8\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"sQLBasicsTutorialsPart02":"[{\"number\":2,\"topic\":\"SQL Basics Tutorials(Part 02)\",\"lessonId\":\"sQLBasicsTutorialsPart02\",\"videoURL\":\"v=6Iv9TfesYoY\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

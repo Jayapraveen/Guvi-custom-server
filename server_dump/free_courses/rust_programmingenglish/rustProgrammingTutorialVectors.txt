@@ -1,0 +1,1 @@
+{"rustProgrammingTutorialVectors":"[{\"number\":24,\"topic\":\"Rust Programming Tutorial - Vectors\",\"lessonId\":\"rustProgrammingTutorialVectors\",\"videoURL\":\"v=GcsAQTMYR1M\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

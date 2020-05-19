@@ -1,0 +1,1 @@
+{"excelChartsMatrixorExcelPanelChartsShowingmanyvariablesatonce":"[{\"number\":7,\"topic\":\"Excel Charts: Matrix or Excel Panel Charts - Showing many variables at once\",\"lessonId\":\"excelChartsMatrixorExcelPanelChartsShowingmanyvariablesatonce\",\"videoURL\":\"v=5nf8rucx80E\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

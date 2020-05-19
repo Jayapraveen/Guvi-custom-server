@@ -1,0 +1,1 @@
+{"javaGameDevelopment20CreatingDisplayModesList":"[{\"number\":20,\"topic\":\"Java Game Development - 20 - Creating Display Modes List\",\"lessonId\":\"javaGameDevelopment20CreatingDisplayModesList\",\"videoURL\":\"v=mxQmrP8lHVE\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

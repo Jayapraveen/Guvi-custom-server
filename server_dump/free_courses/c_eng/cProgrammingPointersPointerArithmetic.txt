@@ -1,0 +1,1 @@
+{"cProgrammingPointersPointerArithmetic":"[{\"number\":20,\"topic\":\"C Programming: Pointers (Pointer Arithmetic)\",\"lessonId\":\"cProgrammingPointersPointerArithmetic\",\"videoURL\":\"v=mOht6R74QaU\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

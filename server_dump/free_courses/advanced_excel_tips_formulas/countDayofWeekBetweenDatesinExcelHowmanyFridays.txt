@@ -1,0 +1,1 @@
+{"countDayofWeekBetweenDatesinExcelHowmanyFridays":"[{\"number\":24,\"topic\":\"Count Day of Week Between Dates in Excel (How many Fridays?)\",\"lessonId\":\"countDayofWeekBetweenDatesinExcelHowmanyFridays\",\"videoURL\":\"v=ljIAKAmgQDI\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

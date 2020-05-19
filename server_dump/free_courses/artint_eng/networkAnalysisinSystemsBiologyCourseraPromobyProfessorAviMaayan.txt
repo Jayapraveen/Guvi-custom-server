@@ -1,0 +1,1 @@
+{"networkAnalysisinSystemsBiologyCourseraPromobyProfessorAviMaayan":"[{\"number\":2,\"topic\":\"Network Analysis in Systems Biology Coursera Promo by Professor Avi Ma'ayan\",\"lessonId\":\"networkAnalysisinSystemsBiologyCourseraPromobyProfessorAviMaayan\",\"videoURL\":\"v=SnkEFrhzqCU\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

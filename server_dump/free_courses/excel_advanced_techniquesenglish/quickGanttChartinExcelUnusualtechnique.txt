@@ -1,0 +1,1 @@
+{"quickGanttChartinExcelUnusualtechnique":"[{\"number\":17,\"topic\":\"Quick Gantt Chart in Excel (Unusual technique)\",\"lessonId\":\"quickGanttChartinExcelUnusualtechnique\",\"videoURL\":\"v=QZd3iXcueaI\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"factoryMethodPatternDesignPatternsep4":"[{\"number\":4,\"topic\":\"Factory Method Pattern \\u2013 Design Patterns (ep 4)\",\"lessonId\":\"factoryMethodPatternDesignPatternsep4\",\"videoURL\":\"v=EcFVTgRHJLM\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

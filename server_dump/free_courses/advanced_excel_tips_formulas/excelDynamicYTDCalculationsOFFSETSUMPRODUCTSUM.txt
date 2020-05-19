@@ -1,0 +1,1 @@
+{"excelDynamicYTDCalculationsOFFSETSUMPRODUCTSUM":"[{\"number\":7,\"topic\":\"Excel Dynamic YTD Calculations: OFFSET, SUMPRODUCT & SUM\",\"lessonId\":\"excelDynamicYTDCalculationsOFFSETSUMPRODUCTSUM\",\"videoURL\":\"v=fkv3o4x_KHU\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

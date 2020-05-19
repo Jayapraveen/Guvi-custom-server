@@ -1,0 +1,1 @@
+{"SystemDesignInterviewQuestionDESIGNAPARKINGLOTaskedatGoogleFacebook":"[{\"number\":4,\"topic\":\"System Design Interview Question DESIGN A PARKING LOT  asked at Google Facebook\",\"lessonId\":\"SystemDesignInterviewQuestionDESIGNAPARKINGLOTaskedatGoogleFacebook\",\"videoURL\":\"v=DSGsa0pu8\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

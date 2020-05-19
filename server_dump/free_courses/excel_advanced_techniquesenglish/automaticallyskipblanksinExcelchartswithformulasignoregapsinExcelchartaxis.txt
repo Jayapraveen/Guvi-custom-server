@@ -1,0 +1,1 @@
+{"automaticallyskipblanksinExcelchartswithformulasignoregapsinExcelchartaxis":"[{\"number\":21,\"topic\":\"Automatically skip blanks in Excel charts with formulas (ignore gaps in Excel chart axis)\",\"lessonId\":\"automaticallyskipblanksinExcelchartswithformulasignoregapsinExcelchartaxis\",\"videoURL\":\"v=T8P8xMBkH4I\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

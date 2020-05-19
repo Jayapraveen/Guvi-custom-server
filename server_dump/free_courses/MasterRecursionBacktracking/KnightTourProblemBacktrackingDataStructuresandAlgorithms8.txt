@@ -1,0 +1,1 @@
+{"KnightTourProblemBacktrackingDataStructuresandAlgorithms8":"[{\"number\":5,\"topic\":\"Knight Tour Problem Backtracking (Data Structures and Algorithms #8)\",\"lessonId\":\"KnightTourProblemBacktrackingDataStructuresandAlgorithms8\",\"videoURL\":\"v=pwlxQeHchFQ\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

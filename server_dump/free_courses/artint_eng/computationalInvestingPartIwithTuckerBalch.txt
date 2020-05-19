@@ -1,0 +1,1 @@
+{"computationalInvestingPartIwithTuckerBalch":"[{\"number\":15,\"topic\":\"Computational Investing, Part I with Tucker Balch\",\"lessonId\":\"computationalInvestingPartIwithTuckerBalch\",\"videoURL\":\"v=HUDwIEeil38\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

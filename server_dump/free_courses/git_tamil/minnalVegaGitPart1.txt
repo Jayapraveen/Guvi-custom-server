@@ -1,0 +1,1 @@
+{"minnalVegaGitPart1":"[{\"number\":19,\"topic\":\"Minnal Vega Git - Part 1\",\"lessonId\":\"minnalVegaGitPart1\",\"videoURL\":\"v=mfR3ZbAIvQc\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

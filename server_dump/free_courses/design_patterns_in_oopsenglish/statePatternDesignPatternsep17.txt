@@ -1,0 +1,1 @@
+{"statePatternDesignPatternsep17":"[{\"number\":17,\"topic\":\"State Pattern \\u2013 Design Patterns (ep 17)\",\"lessonId\":\"statePatternDesignPatternsep17\",\"videoURL\":\"v=N12L5D78MAA\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"designPatternPart2TamilTutorial":"[{\"number\":2,\"topic\":\"Design Pattern - Part 2 Tamil Tutorial\",\"lessonId\":\"designPatternPart2TamilTutorial\",\"videoURL\":\"v=vEmPNk46mVI\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

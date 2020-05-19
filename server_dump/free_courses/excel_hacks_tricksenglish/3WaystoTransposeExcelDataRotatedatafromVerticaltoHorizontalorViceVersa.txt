@@ -1,0 +1,1 @@
+{"3WaystoTransposeExcelDataRotatedatafromVerticaltoHorizontalorViceVersa":"[{\"number\":3,\"topic\":\"3 Ways to Transpose Excel Data (Rotate data from Vertical to Horizontal or Vice Versa)\",\"lessonId\":\"3WaystoTransposeExcelDataRotatedatafromVerticaltoHorizontalorViceVersa\",\"videoURL\":\"v=yYVokk0NdiI\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

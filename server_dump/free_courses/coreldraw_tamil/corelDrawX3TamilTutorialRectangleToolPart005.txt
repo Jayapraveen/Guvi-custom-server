@@ -1,0 +1,1 @@
+{"corelDrawX3TamilTutorialRectangleToolPart005":"[{\"number\":5,\"topic\":\"CorelDraw X3 Tamil Tutorial Rectangle Tool Part 005\",\"lessonId\":\"corelDrawX3TamilTutorialRectangleToolPart005\",\"videoURL\":\"v=MFNv8scGjRg\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"typeScriptTutorial1WelcomeToTypeScript":"[{\"number\":1,\"topic\":\"TypeScript Tutorial 1: Welcome To TypeScript!\",\"lessonId\":\"typeScriptTutorial1WelcomeToTypeScript\",\"videoURL\":\"v=hADI92zCIvE\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

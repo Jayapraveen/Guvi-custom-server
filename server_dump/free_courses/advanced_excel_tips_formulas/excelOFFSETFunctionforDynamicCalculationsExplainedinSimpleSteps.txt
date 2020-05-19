@@ -1,0 +1,1 @@
+{"excelOFFSETFunctionforDynamicCalculationsExplainedinSimpleSteps":"[{\"number\":6,\"topic\":\"Excel OFFSET Function for Dynamic Calculations - Explained in Simple Steps\",\"lessonId\":\"excelOFFSETFunctionforDynamicCalculationsExplainedinSimpleSteps\",\"videoURL\":\"v=RPTQjbk2qy4\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

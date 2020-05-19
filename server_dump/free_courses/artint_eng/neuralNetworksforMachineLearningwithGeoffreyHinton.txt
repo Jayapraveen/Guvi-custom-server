@@ -1,0 +1,1 @@
+{"neuralNetworksforMachineLearningwithGeoffreyHinton":"[{\"number\":12,\"topic\":\"Neural Networks for Machine Learning with Geoffrey Hinton\",\"lessonId\":\"neuralNetworksforMachineLearningwithGeoffreyHinton\",\"videoURL\":\"v=KuPai0ogiHk\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

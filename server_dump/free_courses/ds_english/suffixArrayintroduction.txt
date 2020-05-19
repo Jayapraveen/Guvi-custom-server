@@ -1,0 +1,1 @@
+{"suffixArrayintroduction":"[{\"number\":42,\"topic\":\"Suffix Array introduction\",\"lessonId\":\"suffixArrayintroduction\",\"videoURL\":\"v=zqKlL3ZpTqs\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

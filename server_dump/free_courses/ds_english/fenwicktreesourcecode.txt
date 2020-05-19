@@ -1,0 +1,1 @@
+{"fenwicktreesourcecode":"[{\"number\":41,\"topic\":\"Fenwick tree source code\",\"lessonId\":\"fenwicktreesourcecode\",\"videoURL\":\"v=eHSQjEtVUGA\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"cinTelugu22PointersArraysandPointerArithmetic":"[{\"number\":22,\"topic\":\"C in Telugu - 22 - Pointers, Arrays and Pointer Arithmetic\",\"lessonId\":\"cinTelugu22PointersArraysandPointerArithmetic\",\"videoURL\":\"v=8dN_oyNIe-Q\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

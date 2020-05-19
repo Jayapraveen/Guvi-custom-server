@@ -1,0 +1,1 @@
+{"dataStructuressession02LinkedListpart1Tamiltutorial":"[{\"number\":4,\"topic\":\"Data Structures - session 02 - Linked List part1 - Tamil tutorial\",\"lessonId\":\"dataStructuressession02LinkedListpart1Tamiltutorial\",\"videoURL\":\"v=Htx5FHhjCj4\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

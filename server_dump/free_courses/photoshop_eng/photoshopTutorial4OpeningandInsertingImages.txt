@@ -1,0 +1,1 @@
+{"photoshopTutorial4OpeningandInsertingImages":"[{\"number\":4,\"topic\":\"Photoshop Tutorial - 4 - Opening and Inserting Images\",\"lessonId\":\"photoshopTutorial4OpeningandInsertingImages\",\"videoURL\":\"v=SlKt3vY1Tlw\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

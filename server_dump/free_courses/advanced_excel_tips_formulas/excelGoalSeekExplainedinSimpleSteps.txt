@@ -1,0 +1,1 @@
+{"excelGoalSeekExplainedinSimpleSteps":"[{\"number\":13,\"topic\":\"Excel Goal Seek Explained in Simple Steps\",\"lessonId\":\"excelGoalSeekExplainedinSimpleSteps\",\"videoURL\":\"v=OhnkuBVTcg8\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

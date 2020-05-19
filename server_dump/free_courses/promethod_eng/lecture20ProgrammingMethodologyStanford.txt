@@ -1,0 +1,1 @@
+{"lecture20ProgrammingMethodologyStanford":"[{\"number\":20,\"topic\":\"Lecture 20 | Programming Methodology (Stanford)\",\"lessonId\":\"lecture20ProgrammingMethodologyStanford\",\"videoURL\":\"v=b8OLOWWxvx0\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

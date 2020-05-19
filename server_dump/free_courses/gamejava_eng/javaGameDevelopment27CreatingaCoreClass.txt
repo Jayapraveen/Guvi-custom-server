@@ -1,0 +1,1 @@
+{"javaGameDevelopment27CreatingaCoreClass":"[{\"number\":27,\"topic\":\"Java Game Development - 27 - Creating a Core Class\",\"lessonId\":\"javaGameDevelopment27CreatingaCoreClass\",\"videoURL\":\"v=4Q0hgzl-wWg\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

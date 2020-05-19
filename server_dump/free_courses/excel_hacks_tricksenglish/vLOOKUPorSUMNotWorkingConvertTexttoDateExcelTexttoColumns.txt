@@ -1,0 +1,1 @@
+{"vLOOKUPorSUMNotWorkingConvertTexttoDateExcelTexttoColumns":"[{\"number\":7,\"topic\":\"VLOOKUP or SUM Not Working? Convert Text to Date? (Excel Text to Columns)\",\"lessonId\":\"vLOOKUPorSUMNotWorkingConvertTexttoDateExcelTexttoColumns\",\"videoURL\":\"v=O-PMmN5CkNo\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

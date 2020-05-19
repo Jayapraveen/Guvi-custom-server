@@ -1,0 +1,1 @@
+{"javaGameDevelopment19CompatibleBufferImages":"[{\"number\":19,\"topic\":\"Java Game Development - 19 - Compatible Buffer Images\",\"lessonId\":\"javaGameDevelopment19CompatibleBufferImages\",\"videoURL\":\"v=oAwrpKuBZCI\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

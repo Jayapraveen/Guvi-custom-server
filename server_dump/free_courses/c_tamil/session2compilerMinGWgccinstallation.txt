@@ -1,0 +1,1 @@
+{"session2compilerMinGWgccinstallation":"[{\"number\":2,\"topic\":\"Session 2 - compiler MinGW(gcc installation)\",\"lessonId\":\"session2compilerMinGWgccinstallation\",\"videoURL\":\"v=T2912zBkwW8\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

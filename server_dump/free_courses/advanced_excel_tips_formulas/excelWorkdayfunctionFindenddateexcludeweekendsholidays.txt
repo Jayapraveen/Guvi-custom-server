@@ -1,0 +1,1 @@
+{"excelWorkdayfunctionFindenddateexcludeweekendsholidays":"[{\"number\":10,\"topic\":\"Excel Workday function: Find end date - exclude weekends & holidays\",\"lessonId\":\"excelWorkdayfunctionFindenddateexcludeweekendsholidays\",\"videoURL\":\"v=76BRqJHH4Mk\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

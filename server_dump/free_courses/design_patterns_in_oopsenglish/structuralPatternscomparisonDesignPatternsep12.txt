@@ -1,0 +1,1 @@
+{"structuralPatternscomparisonDesignPatternsep12":"[{\"number\":12,\"topic\":\"Structural Patterns (comparison) \\u2013 Design Patterns (ep 12)\",\"lessonId\":\"structuralPatternscomparisonDesignPatternsep12\",\"videoURL\":\"v=lPsSL6_7NBg\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

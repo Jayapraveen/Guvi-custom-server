@@ -1,0 +1,1 @@
+{"nullObjectPatternDesignPatternsep18":"[{\"number\":18,\"topic\":\"Null Object Pattern \\u2013 Design Patterns (ep 18)\",\"lessonId\":\"nullObjectPatternDesignPatternsep18\",\"videoURL\":\"v=rQ7BzfRz7OY\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

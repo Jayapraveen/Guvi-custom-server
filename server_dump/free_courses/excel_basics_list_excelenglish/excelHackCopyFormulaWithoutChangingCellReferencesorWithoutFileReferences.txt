@@ -1,0 +1,1 @@
+{"excelHackCopyFormulaWithoutChangingCellReferencesorWithoutFileReferences":"[{\"number\":4,\"topic\":\"Excel Hack: Copy Formula Without Changing Cell References (or Without File References)\",\"lessonId\":\"excelHackCopyFormulaWithoutChangingCellReferencesorWithoutFileReferences\",\"videoURL\":\"v=zWhGVZ-R-6g\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

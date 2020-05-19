@@ -1,0 +1,1 @@
+{"excelChartsHowToShowPercentagesinStackedChartsinadditiontovalues":"[{\"number\":16,\"topic\":\"Excel Charts: How To Show Percentages in Stacked Charts (in addition to values)\",\"lessonId\":\"excelChartsHowToShowPercentagesinStackedChartsinadditiontovalues\",\"videoURL\":\"v=nm7NR-7SkJo\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

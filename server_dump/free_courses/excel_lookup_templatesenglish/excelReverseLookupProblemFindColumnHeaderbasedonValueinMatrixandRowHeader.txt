@@ -1,0 +1,1 @@
+{"excelReverseLookupProblemFindColumnHeaderbasedonValueinMatrixandRowHeader":"[{\"number\":6,\"topic\":\"Excel Reverse Lookup Problem: Find Column Header based on Value in Matrix and Row Header\",\"lessonId\":\"excelReverseLookupProblemFindColumnHeaderbasedonValueinMatrixandRowHeader\",\"videoURL\":\"v=rqvsOoLoxck\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

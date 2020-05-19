@@ -1,0 +1,1 @@
+{"dELETEandUPDATEcommands":"[{\"number\":9,\"topic\":\"DELETE and UPDATE commands\",\"lessonId\":\"dELETEandUPDATEcommands\",\"videoURL\":\"v=4MmB0Z_BQoc\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

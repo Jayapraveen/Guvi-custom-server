@@ -1,0 +1,1 @@
+{"proxyPatternDesignPatternsep10":"[{\"number\":10,\"topic\":\"Proxy Pattern \\u2013 Design Patterns (ep 10)\",\"lessonId\":\"proxyPatternDesignPatternsep10\",\"videoURL\":\"v=NwaabHqPHeM\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"fenwickTreepointupdates":"[{\"number\":39,\"topic\":\"Fenwick Tree point updates\",\"lessonId\":\"fenwickTreepointupdates\",\"videoURL\":\"v=B-BkW9ZpKKM\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

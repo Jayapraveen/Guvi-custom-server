@@ -1,0 +1,1 @@
+{"hashtableopenaddressingcode":"[{\"number\":37,\"topic\":\"Hash table open addressing code\",\"lessonId\":\"hashtableopenaddressingcode\",\"videoURL\":\"v=eer6yW4S4Ts\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

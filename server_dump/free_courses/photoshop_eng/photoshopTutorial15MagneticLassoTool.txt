@@ -1,0 +1,1 @@
+{"photoshopTutorial15MagneticLassoTool":"[{\"number\":15,\"topic\":\"Photoshop Tutorial - 15 - Magnetic Lasso Tool\",\"lessonId\":\"photoshopTutorial15MagneticLassoTool\",\"videoURL\":\"v=cQ8Bi-Hisq8\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

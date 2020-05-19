@@ -1,0 +1,1 @@
+{"c++tutorialinTelugu9StaticMethodandVariables":"[{\"number\":9,\"topic\":\"C++ tutorial in Telugu - 9 - Static Method and Variables\",\"lessonId\":\"c++tutorialinTelugu9StaticMethodandVariables\",\"videoURL\":\"v=Q_1zWV8VT58\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

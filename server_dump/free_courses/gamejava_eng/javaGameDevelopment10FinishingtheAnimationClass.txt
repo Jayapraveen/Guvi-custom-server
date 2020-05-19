@@ -1,0 +1,1 @@
+{"javaGameDevelopment10FinishingtheAnimationClass":"[{\"number\":10,\"topic\":\"Java Game Development - 10 - Finishing the Animation Class\",\"lessonId\":\"javaGameDevelopment10FinishingtheAnimationClass\",\"videoURL\":\"v=H1hYVvhNzsA\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

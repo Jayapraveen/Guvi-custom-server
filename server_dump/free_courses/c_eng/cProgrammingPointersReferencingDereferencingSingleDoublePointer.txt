@@ -1,0 +1,1 @@
+{"cProgrammingPointersReferencingDereferencingSingleDoublePointer":"[{\"number\":19,\"topic\":\"C Programming: Pointers (Referencing Dereferencing, Single, Double Pointer)\",\"lessonId\":\"cProgrammingPointersReferencingDereferencingSingleDoublePointer\",\"videoURL\":\"v=BoO54TaF938\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"improvereadabilityofExcelLineChartsDynamicLegendsinExcel":"[{\"number\":1,\"topic\":\"Improve readability of Excel Line Charts: Dynamic Legends in Excel\",\"lessonId\":\"improvereadabilityofExcelLineChartsDynamicLegendsinExcel\",\"videoURL\":\"v=cYHOezDL8SQ\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

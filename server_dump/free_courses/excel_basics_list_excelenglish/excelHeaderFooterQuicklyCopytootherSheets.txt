@@ -1,0 +1,1 @@
+{"excelHeaderFooterQuicklyCopytootherSheets":"[{\"number\":11,\"topic\":\"Excel Header & Footer (& Quickly Copy to other Sheets)\",\"lessonId\":\"excelHeaderFooterQuicklyCopytootherSheets\",\"videoURL\":\"v=Q6b315vRNrg\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

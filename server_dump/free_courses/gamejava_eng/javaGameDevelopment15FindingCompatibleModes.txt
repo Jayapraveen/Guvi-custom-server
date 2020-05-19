@@ -1,0 +1,1 @@
+{"javaGameDevelopment15FindingCompatibleModes":"[{\"number\":15,\"topic\":\"Java Game Development - 15 - Finding Compatible Modes\",\"lessonId\":\"javaGameDevelopment15FindingCompatibleModes\",\"videoURL\":\"v=roWl3dsfucA\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

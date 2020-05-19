@@ -1,0 +1,1 @@
+{"excelChartsSortedBarChartasAlternativetothePieChart":"[{\"number\":6,\"topic\":\"Excel Charts: Sorted Bar Chart as Alternative to the Pie Chart\",\"lessonId\":\"excelChartsSortedBarChartasAlternativetothePieChart\",\"videoURL\":\"v=xO_lCIAlnV0\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

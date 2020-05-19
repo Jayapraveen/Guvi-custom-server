@@ -1,0 +1,1 @@
+{"bootstrap3ImageGalleryusingModalandJquerypart2":"[{\"number\":20,\"topic\":\"Bootstrap 3 - Image Gallery using Modal and Jquery part 2\",\"lessonId\":\"bootstrap3ImageGalleryusingModalandJquerypart2\",\"videoURL\":\"v=K5LZpE_HVg0\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

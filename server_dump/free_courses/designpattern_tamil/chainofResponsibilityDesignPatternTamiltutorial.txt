@@ -1,0 +1,1 @@
+{"chainofResponsibilityDesignPatternTamiltutorial":"[{\"number\":13,\"topic\":\"Chain of Responsibility Design Pattern Tamil tutorial\",\"lessonId\":\"chainofResponsibilityDesignPatternTamiltutorial\",\"videoURL\":\"v=pAO5s9APhOE\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

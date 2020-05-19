@@ -1,0 +1,1 @@
+{"observerPatternDesignPatternsep2":"[{\"number\":2,\"topic\":\"Observer Pattern \\u2013 Design Patterns (ep 2)\",\"lessonId\":\"observerPatternDesignPatternsep2\",\"videoURL\":\"v=_BpmfnqjgzQ\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

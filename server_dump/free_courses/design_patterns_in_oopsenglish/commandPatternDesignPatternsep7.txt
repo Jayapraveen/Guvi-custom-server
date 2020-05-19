@@ -1,0 +1,1 @@
+{"commandPatternDesignPatternsep7":"[{\"number\":7,\"topic\":\"Command Pattern \\u2013 Design Patterns (ep 7)\",\"lessonId\":\"commandPatternDesignPatternsep7\",\"videoURL\":\"v=9qA5kw8dcSU\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

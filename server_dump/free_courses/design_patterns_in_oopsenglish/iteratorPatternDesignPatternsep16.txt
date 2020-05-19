@@ -1,0 +1,1 @@
+{"iteratorPatternDesignPatternsep16":"[{\"number\":16,\"topic\":\"Iterator Pattern \\u2013 Design Patterns (ep 16)\",\"lessonId\":\"iteratorPatternDesignPatternsep16\",\"videoURL\":\"v=uNTNEfwYXhI\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

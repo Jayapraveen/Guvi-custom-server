@@ -1,0 +1,1 @@
+{"photoshopTutorial3HowtoCreateaNewDocument":"[{\"number\":3,\"topic\":\"Photoshop Tutorial - 3 - How to Create a New Document\",\"lessonId\":\"photoshopTutorial3HowtoCreateaNewDocument\",\"videoURL\":\"v=S_chwGVEqfE\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

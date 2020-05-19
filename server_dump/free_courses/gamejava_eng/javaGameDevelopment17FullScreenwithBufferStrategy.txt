@@ -1,0 +1,1 @@
+{"javaGameDevelopment17FullScreenwithBufferStrategy":"[{\"number\":17,\"topic\":\"Java Game Development - 17 - Full Screen with Buffer Strategy\",\"lessonId\":\"javaGameDevelopment17FullScreenwithBufferStrategy\",\"videoURL\":\"v=nzHDQvzUXL0\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

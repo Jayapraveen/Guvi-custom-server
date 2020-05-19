@@ -1,0 +1,1 @@
+{"resetDependentDropdowninExcelwithatinybitofVBA":"[{\"number\":15,\"topic\":\"Reset Dependent Drop-down in Excel (with a tiny bit of VBA)\",\"lessonId\":\"resetDependentDropdowninExcelwithatinybitofVBA\",\"videoURL\":\"v=wWasYHG1lmM\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

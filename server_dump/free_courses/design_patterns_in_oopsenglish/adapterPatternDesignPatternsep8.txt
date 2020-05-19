@@ -1,0 +1,1 @@
+{"adapterPatternDesignPatternsep8":"[{\"number\":8,\"topic\":\"Adapter Pattern \\u2013 Design Patterns (ep 8)\",\"lessonId\":\"adapterPatternDesignPatternsep8\",\"videoURL\":\"v=2PKQtcJjYvc\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

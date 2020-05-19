@@ -1,0 +1,1 @@
+{"calculatePercentagestheRightWayinExcel%ChangeAmountafter%increase":"[{\"number\":17,\"topic\":\"Calculate Percentages the Right Way in Excel (% Change & Amount after % increase)\",\"lessonId\":\"calculatePercentagestheRightWayinExcel%ChangeAmountafter%increase\",\"videoURL\":\"v=UN5PckRADyQ\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

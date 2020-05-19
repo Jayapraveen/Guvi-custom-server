@@ -1,0 +1,1 @@
+{"functions71":"[{\"number\":24,\"topic\":\"Functions 7.1\",\"lessonId\":\"functions71\",\"videoURL\":\"v=L6BtDAI2ejQ\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

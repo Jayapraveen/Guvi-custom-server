@@ -1,0 +1,1 @@
+{"probabilisticGraphicalModelswithDaphneKoller":"[{\"number\":13,\"topic\":\"Probabilistic Graphical Models with Daphne Koller\",\"lessonId\":\"probabilisticGraphicalModelswithDaphneKoller\",\"videoURL\":\"v=bVMBe50GfnI\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

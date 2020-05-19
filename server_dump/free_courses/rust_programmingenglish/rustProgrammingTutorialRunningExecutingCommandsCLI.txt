@@ -1,0 +1,1 @@
+{"rustProgrammingTutorialRunningExecutingCommandsCLI":"[{\"number\":40,\"topic\":\"Rust Programming Tutorial - Running\\\/Executing Commands (CLI)\",\"lessonId\":\"rustProgrammingTutorialRunningExecutingCommandsCLI\",\"videoURL\":\"v=9MYXWSlMf40\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

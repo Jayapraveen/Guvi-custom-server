@@ -1,0 +1,1 @@
+{"javaGameDevelopment23IntroductiontoSprites":"[{\"number\":23,\"topic\":\"Java Game Development - 23 - Introduction to Sprites\",\"lessonId\":\"javaGameDevelopment23IntroductiontoSprites\",\"videoURL\":\"v=xKGpBl3D0v0\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

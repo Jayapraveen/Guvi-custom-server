@@ -1,0 +1,1 @@
+{"excelSUMIFSSumAlternateColumnsbasedonCriteriaandHeader":"[{\"number\":9,\"topic\":\"Excel SUMIFS: Sum Alternate Columns based on Criteria and Header\",\"lessonId\":\"excelSUMIFSSumAlternateColumnsbasedonCriteriaandHeader\",\"videoURL\":\"v=2odvwY_mWN8\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

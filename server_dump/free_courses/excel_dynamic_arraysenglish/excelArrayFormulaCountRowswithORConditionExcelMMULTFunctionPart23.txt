@@ -1,0 +1,1 @@
+{"excelArrayFormulaCountRowswithORConditionExcelMMULTFunctionPart23":"[{\"number\":6,\"topic\":\"Excel Array Formula: Count Rows with OR Condition - Excel MMULT Function (Part 2\\\/3)\",\"lessonId\":\"excelArrayFormulaCountRowswithORConditionExcelMMULTFunctionPart23\",\"videoURL\":\"v=vC9S0oCa_Xk\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"howtoChangetheNumberFormatofaCellBasedonaConditioninExcel":"[{\"number\":22,\"topic\":\"How to Change the Number Format of a Cell Based on a Condition in Excel\",\"lessonId\":\"howtoChangetheNumberFormatofaCellBasedonaConditioninExcel\",\"videoURL\":\"v=x9ho5QAUr6c\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

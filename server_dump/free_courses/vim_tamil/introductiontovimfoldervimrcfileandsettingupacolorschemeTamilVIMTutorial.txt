@@ -1,0 +1,1 @@
+{"introductiontovimfoldervimrcfileandsettingupacolorschemeTamilVIMTutorial":"[{\"number\":6,\"topic\":\"Introduction to .vim folder .vimrc file and setting up a colorscheme - Tamil VIM Tutorial\",\"lessonId\":\"introductiontovimfoldervimrcfileandsettingupacolorschemeTamilVIMTutorial\",\"videoURL\":\"v=iy3SmCrF2HA\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

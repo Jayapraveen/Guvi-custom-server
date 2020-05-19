@@ -1,0 +1,1 @@
+{"excelDynamicChartRangebasedonCelldropdownValuefordashboards":"[{\"number\":4,\"topic\":\"Excel Dynamic Chart Range based on Cell (drop-down) Value for dashboards\",\"lessonId\":\"excelDynamicChartRangebasedonCelldropdownValuefordashboards\",\"videoURL\":\"v=sHfWRb2yUrM\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

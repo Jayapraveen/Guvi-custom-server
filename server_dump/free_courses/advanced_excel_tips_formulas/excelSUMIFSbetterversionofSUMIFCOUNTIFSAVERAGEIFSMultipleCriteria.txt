@@ -1,0 +1,1 @@
+{"excelSUMIFSbetterversionofSUMIFCOUNTIFSAVERAGEIFSMultipleCriteria":"[{\"number\":8,\"topic\":\"Excel SUMIFS (better version of SUMIF), COUNTIFS & AVERAGEIFS (Multiple Criteria)\",\"lessonId\":\"excelSUMIFSbetterversionofSUMIFCOUNTIFSAVERAGEIFSMultipleCriteria\",\"videoURL\":\"v=AZuBNWMh7VM\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

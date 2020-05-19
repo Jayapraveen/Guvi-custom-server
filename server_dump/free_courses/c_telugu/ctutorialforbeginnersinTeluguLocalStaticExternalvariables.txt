@@ -1,0 +1,1 @@
+{"ctutorialforbeginnersinTeluguLocalStaticExternalvariables":"[{\"number\":26,\"topic\":\"C tutorial for beginners in Telugu - Local, Static, External variables\",\"lessonId\":\"ctutorialforbeginnersinTeluguLocalStaticExternalvariables\",\"videoURL\":\"v=VhT74qtD2yY\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

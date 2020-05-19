@@ -1,0 +1,1 @@
+{"steveJobs2005StanfordCommencementAddresswithintrobyPresidentJohnHennessy":"[{\"number\":2,\"topic\":\"Steve Jobs' 2005 Stanford Commencement Address (with intro by President John Hennessy)\",\"lessonId\":\"steveJobs2005StanfordCommencementAddresswithintrobyPresidentJohnHennessy\",\"videoURL\":\"v=Hd_ptbiPoXM\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

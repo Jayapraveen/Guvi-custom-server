@@ -1,0 +1,1 @@
+{"fenwickTreerangequeries":"[{\"number\":38,\"topic\":\"Fenwick Tree range queries\",\"lessonId\":\"fenwickTreerangequeries\",\"videoURL\":\"v=RgITNht_f4Q\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"javaGameDevelopment24FinishingtheSpriteClass":"[{\"number\":24,\"topic\":\"Java Game Development - 24 - Finishing the Sprite Class\",\"lessonId\":\"javaGameDevelopment24FinishingtheSpriteClass\",\"videoURL\":\"v=q1glr6ValIo\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

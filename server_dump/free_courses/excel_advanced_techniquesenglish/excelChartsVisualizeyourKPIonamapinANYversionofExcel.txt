@@ -1,0 +1,1 @@
+{"excelChartsVisualizeyourKPIonamapinANYversionofExcel":"[{\"number\":5,\"topic\":\"Excel Charts: Visualize your KPI on a map in ANY version of Excel\",\"lessonId\":\"excelChartsVisualizeyourKPIonamapinANYversionofExcel\",\"videoURL\":\"v=KlNdBgeFfKY\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

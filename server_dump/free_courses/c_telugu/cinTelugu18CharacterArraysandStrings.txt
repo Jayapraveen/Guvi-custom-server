@@ -1,0 +1,1 @@
+{"cinTelugu18CharacterArraysandStrings":"[{\"number\":18,\"topic\":\"C in Telugu - 18 - Character Arrays and Strings\",\"lessonId\":\"cinTelugu18CharacterArraysandStrings\",\"videoURL\":\"v=TDEdNRlVPq0\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

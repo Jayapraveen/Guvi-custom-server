@@ -1,0 +1,1 @@
+{"excelVBACheckIfFileorFolderExistsDIROpenFileorCreateFolder":"[{\"number\":14,\"topic\":\"Excel VBA: Check If File or Folder Exists (DIR) - Open File or Create Folder\",\"lessonId\":\"excelVBACheckIfFileorFolderExistsDIROpenFileorCreateFolder\",\"videoURL\":\"v=I7K3OuUSKpc\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

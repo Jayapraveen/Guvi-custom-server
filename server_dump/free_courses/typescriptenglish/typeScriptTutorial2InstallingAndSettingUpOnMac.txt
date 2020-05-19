@@ -1,0 +1,1 @@
+{"typeScriptTutorial2InstallingAndSettingUpOnMac":"[{\"number\":2,\"topic\":\"TypeScript Tutorial 2: Installing And Setting Up On Mac\",\"lessonId\":\"typeScriptTutorial2InstallingAndSettingUpOnMac\",\"videoURL\":\"v=p7qa8N8TvqI\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

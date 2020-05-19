@@ -1,0 +1,1 @@
+{"excelChartsStackedChartDynamicSeriesLabelPositioningforImprovedReadability":"[{\"number\":15,\"topic\":\"Excel Charts: Stacked Chart Dynamic Series Label Positioning for Improved Readability\",\"lessonId\":\"excelChartsStackedChartDynamicSeriesLabelPositioningforImprovedReadability\",\"videoURL\":\"v=YAwraBokizU\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

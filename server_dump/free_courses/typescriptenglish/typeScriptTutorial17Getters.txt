@@ -1,0 +1,1 @@
+{"typeScriptTutorial17Getters":"[{\"number\":17,\"topic\":\"TypeScript Tutorial 17: Getters\",\"lessonId\":\"typeScriptTutorial17Getters\",\"videoURL\":\"v=sS_0PM6v9zk\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

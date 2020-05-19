@@ -1,0 +1,1 @@
+{"excelNETWORKDAYSfunctionCalculatethenumberofworkingdaysbetweentwodates":"[{\"number\":11,\"topic\":\"Excel NETWORKDAYS function: Calculate the number of working days between two dates\",\"lessonId\":\"excelNETWORKDAYSfunctionCalculatethenumberofworkingdaysbetweentwodates\",\"videoURL\":\"v=uJKFObU0Dug\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

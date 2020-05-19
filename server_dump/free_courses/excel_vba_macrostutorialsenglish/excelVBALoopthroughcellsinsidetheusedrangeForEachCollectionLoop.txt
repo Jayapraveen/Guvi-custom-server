@@ -1,0 +1,1 @@
+{"excelVBALoopthroughcellsinsidetheusedrangeForEachCollectionLoop":"[{\"number\":8,\"topic\":\"Excel VBA: Loop through cells inside the used range (For Each Collection Loop)\",\"lessonId\":\"excelVBALoopthroughcellsinsidetheusedrangeForEachCollectionLoop\",\"videoURL\":\"v=5bq3N99mNPE\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

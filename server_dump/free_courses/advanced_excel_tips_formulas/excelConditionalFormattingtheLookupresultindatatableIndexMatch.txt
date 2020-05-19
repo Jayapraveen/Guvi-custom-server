@@ -1,0 +1,1 @@
+{"excelConditionalFormattingtheLookupresultindatatableIndexMatch":"[{\"number\":16,\"topic\":\"Excel Conditional Formatting the Lookup result in data table (Index Match)\",\"lessonId\":\"excelConditionalFormattingtheLookupresultindatatableIndexMatch\",\"videoURL\":\"v=4bdZeppTQmI\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

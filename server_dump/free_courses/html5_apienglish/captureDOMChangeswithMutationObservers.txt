@@ -1,0 +1,1 @@
+{"captureDOMChangeswithMutationObservers":"[{\"number\":18,\"topic\":\"Capture DOM Changes with MutationObservers\",\"lessonId\":\"captureDOMChangeswithMutationObservers\",\"videoURL\":\"v=RQ1N_EP07xs\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

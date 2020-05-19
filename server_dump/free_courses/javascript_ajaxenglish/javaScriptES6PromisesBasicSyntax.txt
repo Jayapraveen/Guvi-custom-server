@@ -1,0 +1,1 @@
+{"javaScriptES6PromisesBasicSyntax":"[{\"number\":2,\"topic\":\"JavaScript ES6 Promises - Basic Syntax\",\"lessonId\":\"javaScriptES6PromisesBasicSyntax\",\"videoURL\":\"v=SmPouEFKOBg\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

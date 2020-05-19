@@ -1,0 +1,1 @@
+{"hTML5JavaScriptWebStorageusinglocalStorageandsessionStorage":"[{\"number\":8,\"topic\":\"HTML5 JavaScript Web Storage using localStorage and sessionStorage\",\"lessonId\":\"hTML5JavaScriptWebStorageusinglocalStorageandsessionStorage\",\"videoURL\":\"v=hOCYNdgsUfs\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

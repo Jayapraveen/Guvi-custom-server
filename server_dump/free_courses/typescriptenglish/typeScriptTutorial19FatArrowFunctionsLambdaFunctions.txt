@@ -1,0 +1,1 @@
+{"typeScriptTutorial19FatArrowFunctionsLambdaFunctions":"[{\"number\":19,\"topic\":\"TypeScript Tutorial 19: Fat Arrow Functions (Lambda Functions)\",\"lessonId\":\"typeScriptTutorial19FatArrowFunctionsLambdaFunctions\",\"videoURL\":\"v=4llUutJR4n8\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

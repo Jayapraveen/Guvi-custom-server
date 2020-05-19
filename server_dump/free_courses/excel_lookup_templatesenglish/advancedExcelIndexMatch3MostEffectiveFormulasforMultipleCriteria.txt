@@ -1,0 +1,1 @@
+{"advancedExcelIndexMatch3MostEffectiveFormulasforMultipleCriteria":"[{\"number\":3,\"topic\":\"Advanced Excel Index Match (3 Most Effective Formulas for Multiple Criteria)\",\"lessonId\":\"advancedExcelIndexMatch3MostEffectiveFormulasforMultipleCriteria\",\"videoURL\":\"v=ontXHp9cwOQ\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

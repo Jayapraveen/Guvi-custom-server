@@ -1,0 +1,1 @@
+{"gitResethardercommand":"[{\"number\":7,\"topic\":\"Git Reset harder command\",\"lessonId\":\"gitResethardercommand\",\"videoURL\":\"v=KKRnI2ZV6ls\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"electronTutorial9globalShortcutsandAccelerators":"[{\"number\":9,\"topic\":\"Electron Tutorial 9: globalShortcuts and Accelerators\",\"lessonId\":\"electronTutorial9globalShortcutsandAccelerators\",\"videoURL\":\"v=Pg1eiCGkwZQ\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

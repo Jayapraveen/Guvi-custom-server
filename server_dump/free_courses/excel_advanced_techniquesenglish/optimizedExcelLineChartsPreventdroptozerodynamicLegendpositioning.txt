@@ -1,0 +1,1 @@
+{"optimizedExcelLineChartsPreventdroptozerodynamicLegendpositioning":"[{\"number\":23,\"topic\":\"Optimized Excel Line Charts: Prevent drop to zero & dynamic Legend positioning\",\"lessonId\":\"optimizedExcelLineChartsPreventdroptozerodynamicLegendpositioning\",\"videoURL\":\"v=W-QAx3_kL30\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

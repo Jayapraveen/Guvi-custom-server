@@ -1,0 +1,1 @@
+{"excelConditionalFormattingwithSymbolsandIconsforbetterreports":"[{\"number\":12,\"topic\":\"Excel Conditional Formatting with Symbols and Icons (for better reports)\",\"lessonId\":\"excelConditionalFormattingwithSymbolsandIconsforbetterreports\",\"videoURL\":\"v=875eK_x4nyQ\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

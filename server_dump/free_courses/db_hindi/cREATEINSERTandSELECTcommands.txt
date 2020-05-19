@@ -1,0 +1,1 @@
+{"cREATEINSERTandSELECTcommands":"[{\"number\":8,\"topic\":\"CREATE, INSERT and SELECT commands\",\"lessonId\":\"cREATEINSERTandSELECTcommands\",\"videoURL\":\"v=n8gldBgir5E\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

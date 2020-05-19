@@ -1,0 +1,1 @@
+{"lIKEpatternOperator":"[{\"number\":11,\"topic\":\"LIKE 'pattern' Operator\",\"lessonId\":\"lIKEpatternOperator\",\"videoURL\":\"v=tXXA6ghsSck\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

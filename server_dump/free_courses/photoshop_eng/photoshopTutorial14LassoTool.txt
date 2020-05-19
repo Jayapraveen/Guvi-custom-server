@@ -1,0 +1,1 @@
+{"photoshopTutorial14LassoTool":"[{\"number\":14,\"topic\":\"Photoshop Tutorial - 14 - Lasso Tool\",\"lessonId\":\"photoshopTutorial14LassoTool\",\"videoURL\":\"v=4kPaD852zJ8\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

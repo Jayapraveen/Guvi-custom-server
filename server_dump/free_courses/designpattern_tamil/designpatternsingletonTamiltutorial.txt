@@ -1,0 +1,1 @@
+{"designpatternsingletonTamiltutorial":"[{\"number\":8,\"topic\":\"design pattern singleton Tamil tutorial\",\"lessonId\":\"designpatternsingletonTamiltutorial\",\"videoURL\":\"v=zdoPPPT2f4I\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

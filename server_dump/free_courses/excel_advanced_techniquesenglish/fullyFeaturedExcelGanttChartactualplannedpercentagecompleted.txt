@@ -1,0 +1,1 @@
+{"fullyFeaturedExcelGanttChartactualplannedpercentagecompleted":"[{\"number\":18,\"topic\":\"Fully Featured Excel Gantt Chart - actual, planned & percentage completed\",\"lessonId\":\"fullyFeaturedExcelGanttChartactualplannedpercentagecompleted\",\"videoURL\":\"v=KtR-CVxC5qA\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

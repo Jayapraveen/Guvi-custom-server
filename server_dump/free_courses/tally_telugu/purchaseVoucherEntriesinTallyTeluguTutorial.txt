@@ -1,0 +1,1 @@
+{"purchaseVoucherEntriesinTallyTeluguTutorial":"[{\"number\":8,\"topic\":\"Purchase Voucher Entries in Tally -Telugu Tutorial\",\"lessonId\":\"purchaseVoucherEntriesinTallyTeluguTutorial\",\"videoURL\":\"v=rtZvTbDQUz0\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"designPatternIteratorpatternTamiltutorials":"[{\"number\":15,\"topic\":\"Design Pattern Iterator pattern Tamil tutorials\",\"lessonId\":\"designPatternIteratorpatternTamiltutorials\",\"videoURL\":\"v=z992e-ayb3g\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

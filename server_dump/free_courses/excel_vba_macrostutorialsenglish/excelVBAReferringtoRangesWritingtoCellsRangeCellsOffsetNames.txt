@@ -1,0 +1,1 @@
+{"excelVBAReferringtoRangesWritingtoCellsRangeCellsOffsetNames":"[{\"number\":4,\"topic\":\"Excel VBA: Referring to Ranges & Writing to Cells (Range, Cells, Offset, Names)\",\"lessonId\":\"excelVBAReferringtoRangesWritingtoCellsRangeCellsOffsetNames\",\"videoURL\":\"v=acGJb9Oojho\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"whatisSQLIsSQLcommonforallRDBMSpackagesproveit":"[{\"number\":6,\"topic\":\"What is SQL? Is SQL common for all RDBMS packages, prove it?\",\"lessonId\":\"whatisSQLIsSQLcommonforallRDBMSpackagesproveit\",\"videoURL\":\"v=F4fR1QdZaCE\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

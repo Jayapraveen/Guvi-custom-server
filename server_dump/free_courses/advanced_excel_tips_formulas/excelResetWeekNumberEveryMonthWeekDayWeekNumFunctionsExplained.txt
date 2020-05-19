@@ -1,0 +1,1 @@
+{"excelResetWeekNumberEveryMonthWeekDayWeekNumFunctionsExplained":"[{\"number\":15,\"topic\":\"Excel Reset Week Number Every Month - (WeekDay & WeekNum Functions Explained)\",\"lessonId\":\"excelResetWeekNumberEveryMonthWeekDayWeekNumFunctionsExplained\",\"videoURL\":\"v=WlC4IvjOCNo\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

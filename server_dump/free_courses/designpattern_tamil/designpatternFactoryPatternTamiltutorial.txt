@@ -1,0 +1,1 @@
+{"designpatternFactoryPatternTamiltutorial":"[{\"number\":10,\"topic\":\"design pattern Factory Pattern Tamil tutorial\",\"lessonId\":\"designpatternFactoryPatternTamiltutorial\",\"videoURL\":\"v=GorNwxJzt-s\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

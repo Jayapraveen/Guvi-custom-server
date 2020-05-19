@@ -1,0 +1,1 @@
+{"highlightMaxMinValuesinanExcelLineChartConditionalFormattinginCharts":"[{\"number\":36,\"topic\":\"Highlight Max & Min Values in an Excel Line Chart (Conditional Formatting in Charts)\",\"lessonId\":\"highlightMaxMinValuesinanExcelLineChartConditionalFormattinginCharts\",\"videoURL\":\"v=OqtFvB6B7E4\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

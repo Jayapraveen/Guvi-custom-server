@@ -1,0 +1,1 @@
+{"step3ExposingServiceEndpointsforRestfulServices":"[{\"number\":3,\"topic\":\"[Step3]]Exposing Service Endpoints for Restful Services\",\"lessonId\":\"step3ExposingServiceEndpointsforRestfulServices\",\"videoURL\":\"v=aZq9gBrvmiA\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

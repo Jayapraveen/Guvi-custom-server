@@ -1,0 +1,1 @@
+{"templateMethodPatternDesignPatternsep13":"[{\"number\":13,\"topic\":\"Template Method Pattern \\u2013 Design Patterns (ep 13)\",\"lessonId\":\"templateMethodPatternDesignPatternsep13\",\"videoURL\":\"v=7ocpwK9uesw\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

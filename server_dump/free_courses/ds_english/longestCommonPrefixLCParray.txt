@@ -1,0 +1,1 @@
+{"longestCommonPrefixLCParray":"[{\"number\":43,\"topic\":\"Longest Common Prefix (LCP) array\",\"lessonId\":\"longestCommonPrefixLCParray\",\"videoURL\":\"v=53VIWj8ksyI\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

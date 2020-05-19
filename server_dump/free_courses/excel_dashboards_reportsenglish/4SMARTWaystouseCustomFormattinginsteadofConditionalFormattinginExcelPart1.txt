@@ -1,0 +1,1 @@
+{"4SMARTWaystouseCustomFormattinginsteadofConditionalFormattinginExcelPart1":"[{\"number\":6,\"topic\":\"4 SMART Ways to use Custom Formatting instead of Conditional Formatting in Excel - Part 1\",\"lessonId\":\"4SMARTWaystouseCustomFormattinginsteadofConditionalFormattinginExcelPart1\",\"videoURL\":\"v=tGY70sdpaLc\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

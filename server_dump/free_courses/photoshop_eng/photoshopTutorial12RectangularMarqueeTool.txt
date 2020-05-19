@@ -1,0 +1,1 @@
+{"photoshopTutorial12RectangularMarqueeTool":"[{\"number\":12,\"topic\":\"Photoshop Tutorial - 12 - Rectangular Marquee Tool\",\"lessonId\":\"photoshopTutorial12RectangularMarqueeTool\",\"videoURL\":\"v=wKXsReGnCLQ\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

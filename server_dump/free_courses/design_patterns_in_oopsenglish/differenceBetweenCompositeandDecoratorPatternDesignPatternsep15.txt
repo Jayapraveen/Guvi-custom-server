@@ -1,0 +1,1 @@
+{"differenceBetweenCompositeandDecoratorPatternDesignPatternsep15":"[{\"number\":15,\"topic\":\"Difference Between Composite and Decorator Pattern \\u2013 Design Patterns (ep 15)\",\"lessonId\":\"differenceBetweenCompositeandDecoratorPatternDesignPatternsep15\",\"videoURL\":\"v=EECfgFQ44Kg\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

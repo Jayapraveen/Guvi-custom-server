@@ -1,0 +1,1 @@
+{"fundamentalsoftheJavaScriptfetchmethodforAJAX":"[{\"number\":3,\"topic\":\"Fundamentals of the JavaScript fetch method for AJAX\",\"lessonId\":\"fundamentalsoftheJavaScriptfetchmethodforAJAX\",\"videoURL\":\"v=_5yhmkDQqIQ\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

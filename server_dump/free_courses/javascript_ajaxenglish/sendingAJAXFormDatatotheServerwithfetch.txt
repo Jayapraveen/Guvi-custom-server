@@ -1,0 +1,1 @@
+{"sendingAJAXFormDatatotheServerwithfetch":"[{\"number\":5,\"topic\":\"Sending AJAX Form Data to the Server with fetch\",\"lessonId\":\"sendingAJAXFormDatatotheServerwithfetch\",\"videoURL\":\"v=gL8M9Sl5QLs\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

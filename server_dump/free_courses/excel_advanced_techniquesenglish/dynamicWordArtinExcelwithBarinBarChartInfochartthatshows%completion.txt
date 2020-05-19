@@ -1,0 +1,1 @@
+{"dynamicWordArtinExcelwithBarinBarChartInfochartthatshows%completion":"[{\"number\":29,\"topic\":\"Dynamic WordArt in Excel with Bar in Bar Chart (Info-chart that shows % completion)\",\"lessonId\":\"dynamicWordArtinExcelwithBarinBarChartInfochartthatshows%completion\",\"videoURL\":\"v=6iZT74sKi50\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

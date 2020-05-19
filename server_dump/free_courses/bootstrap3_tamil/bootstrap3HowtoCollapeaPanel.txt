@@ -1,0 +1,1 @@
+{"bootstrap3HowtoCollapeaPanel":"[{\"number\":35,\"topic\":\"Bootstrap 3 - How to Collape a Panel\",\"lessonId\":\"bootstrap3HowtoCollapeaPanel\",\"videoURL\":\"v=cIIzFH--K7s\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

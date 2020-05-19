@@ -1,0 +1,1 @@
+{"photoshopTutorial6SavingImagesandCheckingforUpdates":"[{\"number\":6,\"topic\":\"Photoshop Tutorial - 6 - Saving Images and Checking for Updates\",\"lessonId\":\"photoshopTutorial6SavingImagesandCheckingforUpdates\",\"videoURL\":\"v=Gm6z2BNnk2U\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

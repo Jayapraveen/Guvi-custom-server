@@ -1,0 +1,1 @@
+{"creatingThumbnailImageswithanHTMLCanvas":"[{\"number\":8,\"topic\":\"Creating Thumbnail Images with an HTML Canvas\",\"lessonId\":\"creatingThumbnailImageswithanHTMLCanvas\",\"videoURL\":\"v=JId538COVW4\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

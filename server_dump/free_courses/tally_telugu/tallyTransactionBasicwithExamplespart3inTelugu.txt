@@ -1,0 +1,1 @@
+{"tallyTransactionBasicwithExamplespart3inTelugu":"[{\"number\":5,\"topic\":\"Tally Transaction Basic with Examples-part3 in Telugu\",\"lessonId\":\"tallyTransactionBasicwithExamplespart3inTelugu\",\"videoURL\":\"v=dFauUxE2IeY\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

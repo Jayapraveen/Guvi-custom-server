@@ -1,0 +1,1 @@
+{"excelMODFunctionEasyExplanationPracticalExamplesofMODforWork":"[{\"number\":17,\"topic\":\"Excel MOD Function - Easy Explanation & Practical Examples of MOD for Work\",\"lessonId\":\"excelMODFunctionEasyExplanationPracticalExamplesofMODforWork\",\"videoURL\":\"v=tLufL2M1TEs\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

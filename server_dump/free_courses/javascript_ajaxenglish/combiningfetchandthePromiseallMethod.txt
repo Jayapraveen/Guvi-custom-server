@@ -1,0 +1,1 @@
+{"combiningfetchandthePromiseallMethod":"[{\"number\":19,\"topic\":\"Combining fetch and the Promise all Method\",\"lessonId\":\"combiningfetchandthePromiseallMethod\",\"videoURL\":\"v=HTA7pEDGZEU\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

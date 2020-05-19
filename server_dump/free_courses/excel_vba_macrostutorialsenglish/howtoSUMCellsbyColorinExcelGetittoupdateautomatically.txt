@@ -1,0 +1,1 @@
+{"howtoSUMCellsbyColorinExcelGetittoupdateautomatically":"[{\"number\":19,\"topic\":\"How to SUM Cells by Color in Excel (Get it to update automatically)\",\"lessonId\":\"howtoSUMCellsbyColorinExcelGetittoupdateautomatically\",\"videoURL\":\"v=OrAvtXI8zVw\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

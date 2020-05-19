@@ -1,0 +1,1 @@
+{"decoratorPatternDesignPatternsep3":"[{\"number\":3,\"topic\":\"Decorator Pattern \\u2013 Design Patterns (ep 3)\",\"lessonId\":\"decoratorPatternDesignPatternsep3\",\"videoURL\":\"v=GCraGHx6gso\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

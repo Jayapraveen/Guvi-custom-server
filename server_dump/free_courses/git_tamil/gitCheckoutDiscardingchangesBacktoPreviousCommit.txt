@@ -1,0 +1,1 @@
+{"gitCheckoutDiscardingchangesBacktoPreviousCommit":"[{\"number\":6,\"topic\":\"Git Checkout -Discarding changes - Back to Previous Commit\",\"lessonId\":\"gitCheckoutDiscardingchangesBacktoPreviousCommit\",\"videoURL\":\"v=DrSri0AMlxI\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

@@ -1,0 +1,1 @@
+{"excelIFFormulaSimpletoAdvancedmultiplecriterianestedIFANDORfunctions":"[{\"number\":1,\"topic\":\"Excel IF Formula: Simple to Advanced (multiple criteria, nested IF, AND, OR functions)\",\"lessonId\":\"excelIFFormulaSimpletoAdvancedmultiplecriterianestedIFANDORfunctions\",\"videoURL\":\"v=KkTaQ5OjAGc\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}

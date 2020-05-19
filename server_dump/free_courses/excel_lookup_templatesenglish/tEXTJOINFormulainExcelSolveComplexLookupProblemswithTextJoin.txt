@@ -1,0 +1,1 @@
+{"tEXTJOINFormulainExcelSolveComplexLookupProblemswithTextJoin":"[{\"number\":9,\"topic\":\"TEXTJOIN Formula in Excel: Solve Complex Lookup Problems with TextJoin\",\"lessonId\":\"tEXTJOINFormulainExcelSolveComplexLookupProblemswithTextJoin\",\"videoURL\":\"v=TMZEUlFGp1U\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

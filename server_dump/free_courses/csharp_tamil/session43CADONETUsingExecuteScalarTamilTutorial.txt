@@ -1,0 +1,1 @@
+{"session43CADONETUsingExecuteScalarTamilTutorial":"[{\"number\":44,\"topic\":\"Session 43 - C# ADO.NET - Using ExecuteScalar - Tamil Tutorial\",\"lessonId\":\"session43CADONETUsingExecuteScalarTamilTutorial\",\"videoURL\":\"v=qAsSxj2enVo\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

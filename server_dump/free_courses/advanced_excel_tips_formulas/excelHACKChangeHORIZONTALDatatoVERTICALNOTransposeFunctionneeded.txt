@@ -1,0 +1,1 @@
+{"excelHACKChangeHORIZONTALDatatoVERTICALNOTransposeFunctionneeded":"[{\"number\":28,\"topic\":\"Excel HACK: Change HORIZONTAL Data to VERTICAL (NO Transpose Function needed)\",\"lessonId\":\"excelHACKChangeHORIZONTALDatatoVERTICALNOTransposeFunctionneeded\",\"videoURL\":\"v=dF0cVRyC8c4\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

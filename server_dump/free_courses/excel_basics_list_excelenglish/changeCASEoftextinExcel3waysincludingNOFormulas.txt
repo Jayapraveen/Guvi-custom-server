@@ -1,0 +1,1 @@
+{"changeCASEoftextinExcel3waysincludingNOFormulas":"[{\"number\":19,\"topic\":\"Change CASE of text in Excel (3 ways including NO Formulas)\",\"lessonId\":\"changeCASEoftextinExcel3waysincludingNOFormulas\",\"videoURL\":\"v=LN6BB5p6lGc\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

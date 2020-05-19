@@ -1,0 +1,1 @@
+{"lecture24ProgrammingMethodologyStanford":"[{\"number\":24,\"topic\":\"Lecture 24 | Programming Methodology (Stanford)\",\"lessonId\":\"lecture24ProgrammingMethodologyStanford\",\"videoURL\":\"v=lYZwJ6xyGNc\",\"type\":\"lesson\",\"level\":\"l4\"}]","showRating":false}

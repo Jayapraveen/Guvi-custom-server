@@ -1,0 +1,1 @@
+{"excelSlicerTrickUseSymbolsinsteadofTextinPivotSlicers":"[{\"number\":8,\"topic\":\"Excel Slicer Trick - Use Symbols instead of Text in Pivot Slicers\",\"lessonId\":\"excelSlicerTrickUseSymbolsinsteadofTextinPivotSlicers\",\"videoURL\":\"v=sGgjufTM0VA\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

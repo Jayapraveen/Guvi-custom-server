@@ -1,0 +1,1 @@
+{"NQueenProblemDataStructuresandAlgorithms9":"[{\"number\":6,\"topic\":\"N Queen Problem (Data Structures and Algorithms #9)\",\"lessonId\":\"NQueenProblemDataStructuresandAlgorithms9\",\"videoURL\":\"v=CeIsWZLxZTk\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

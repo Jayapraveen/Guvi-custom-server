@@ -1,0 +1,1 @@
+{"designpatternDecoratorTamiltutorialsseries":"[{\"number\":6,\"topic\":\"Design pattern Decorator Tamil tutorials series\",\"lessonId\":\"designpatternDecoratorTamiltutorialsseries\",\"videoURL\":\"v=-B5XBkz2Yq4\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

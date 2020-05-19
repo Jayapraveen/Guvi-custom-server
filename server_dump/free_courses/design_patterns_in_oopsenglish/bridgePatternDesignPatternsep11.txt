@@ -1,0 +1,1 @@
+{"bridgePatternDesignPatternsep11":"[{\"number\":11,\"topic\":\"Bridge Pattern \\u2013 Design Patterns (ep 11)\",\"lessonId\":\"bridgePatternDesignPatternsep11\",\"videoURL\":\"v=F1YQ7YRjttI\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

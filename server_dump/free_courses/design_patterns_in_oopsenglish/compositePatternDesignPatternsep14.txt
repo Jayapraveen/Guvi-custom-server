@@ -1,0 +1,1 @@
+{"compositePatternDesignPatternsep14":"[{\"number\":14,\"topic\":\"Composite Pattern \\u2013 Design Patterns (ep 14)\",\"lessonId\":\"compositePatternDesignPatternsep14\",\"videoURL\":\"v=EWDmWbJ4wRA\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

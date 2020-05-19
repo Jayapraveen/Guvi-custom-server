@@ -1,0 +1,1 @@
+{"cProgrammingPointersMemoryLayoutNeedofPointers":"[{\"number\":18,\"topic\":\"C Programming: Pointers (Memory Layout, Need of Pointers)\",\"lessonId\":\"cProgrammingPointersMemoryLayoutNeedofPointers\",\"videoURL\":\"v=BygxOKcDbzE\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

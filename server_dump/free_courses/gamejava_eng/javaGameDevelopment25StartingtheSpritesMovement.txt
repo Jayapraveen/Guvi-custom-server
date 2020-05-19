@@ -1,0 +1,1 @@
+{"javaGameDevelopment25StartingtheSpritesMovement":"[{\"number\":25,\"topic\":\"Java Game Development - 25 - Starting the Sprites Movement\",\"lessonId\":\"javaGameDevelopment25StartingtheSpritesMovement\",\"videoURL\":\"v=6DZoAbp04Mw\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

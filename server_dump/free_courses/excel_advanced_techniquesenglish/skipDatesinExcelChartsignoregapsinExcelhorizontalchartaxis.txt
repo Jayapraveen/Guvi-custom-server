@@ -1,0 +1,1 @@
+{"skipDatesinExcelChartsignoregapsinExcelhorizontalchartaxis":"[{\"number\":20,\"topic\":\"Skip Dates in Excel Charts (ignore gaps in Excel horizontal chart axis)\",\"lessonId\":\"skipDatesinExcelChartsignoregapsinExcelhorizontalchartaxis\",\"videoURL\":\"v=lQG-g6_noPc\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

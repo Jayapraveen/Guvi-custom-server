@@ -1,0 +1,1 @@
+{"typeScriptTutorial12IntroductiontoInterface":"[{\"number\":12,\"topic\":\"TypeScript Tutorial 12: Introduction to Interface\",\"lessonId\":\"typeScriptTutorial12IntroductiontoInterface\",\"videoURL\":\"v=lusXAJ3tC1k\",\"type\":\"lesson\",\"level\":\"l3\"}]","showRating":false}

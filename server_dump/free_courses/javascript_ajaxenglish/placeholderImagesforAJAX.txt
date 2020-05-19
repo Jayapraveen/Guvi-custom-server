@@ -1,0 +1,1 @@
+{"placeholderImagesforAJAX":"[{\"number\":15,\"topic\":\"Placeholder Images for AJAX\",\"lessonId\":\"placeholderImagesforAJAX\",\"videoURL\":\"v=uXTJnIUlVAA\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

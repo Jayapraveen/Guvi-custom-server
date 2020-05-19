@@ -1,0 +1,1 @@
+{"logicalAddressvsPhysicalAddressOSbasicsTamiltutorials":"[{\"number\":2,\"topic\":\"Logical Address vs Physical Address - OS basics - Tamil tutorials\",\"lessonId\":\"logicalAddressvsPhysicalAddressOSbasicsTamiltutorials\",\"videoURL\":\"v=2qBTt_3zWkw\",\"type\":\"lesson\",\"level\":\"l2\"}]","showRating":false}

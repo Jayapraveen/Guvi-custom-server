@@ -1,0 +1,1 @@
+{"excelTablesUseSmartConditionalFormattingforgreattablelayout":"[{\"number\":10,\"topic\":\"Excel Tables: Use Smart Conditional Formatting for great table layout\",\"lessonId\":\"excelTablesUseSmartConditionalFormattingforgreattablelayout\",\"videoURL\":\"v=dMVGT70PH6w\",\"type\":\"lesson\",\"level\":\"l1\"}]","showRating":false}
